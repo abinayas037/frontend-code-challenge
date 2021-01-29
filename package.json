@@ -1,7 +1,7 @@
 {
     "name": "react-code-challenge",
     "version": "0.1.0",
-    "homepage": "https://abinayarajkumar/frontend-code-challenge",
+    "homepage": "https://github.com/abinayas037/frontend-code-challenge.git",
     "private": true,
     "dependencies": {
       "react": "^16.11.0",
