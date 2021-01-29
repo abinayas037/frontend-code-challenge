@@ -1,4 +1,4 @@
-# Front-end Code Challenge - Vue
+# Front-end Code Challenge - React
 
 This is a boilerplate for a code-challenge meant for Front-end engineers using Vue as library tool for development. It includes all necessary HTML and CSS, so your work is to focus on the development of the app. Please fork this repository in your own account.
 
